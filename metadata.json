@@ -1,8 +1,0 @@
-{
-  "name": "Personal Finance Tracker",
-  "description": "An AI-powered personal finance tracker featuring automatic spend categorization, smart budgeting, anomaly review, financial health analysis, and customized personal insights.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
